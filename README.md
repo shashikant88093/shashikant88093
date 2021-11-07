@@ -1,10 +1,6 @@
 ### Here is What I'm  currently working on
 
-<!--
-**shashikant88093/shashikant88093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... React.js
 - 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
