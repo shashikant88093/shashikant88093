@@ -37,11 +37,12 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 
 
 
- <img  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant88093&layout=compact" />
+ <img  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant88093&layout=compact&count_private=trueshow_icons=true" />
 
 📈 my github stats
 
-![Shashikant  GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=gruvbox_light)
+![Shashikant  GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=gruvbox_light&count_private=true)
+
 
 
 
