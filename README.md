@@ -18,7 +18,7 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 
   <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:shashi94goswami@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:shashikantMyWork2021@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
