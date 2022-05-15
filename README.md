@@ -43,7 +43,7 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 ![Shashikant  GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=gruvbox_light&count_private=true,prs)
 
 
-<iframe width="400px" height="400px" src="https://skyline.github.com/shashikant88093/2021"></iframes>
+<iframe width="400px" height="400px" src="https://skyline.github.com/shashikant88093/2021"></iframe>
 
 
 
