@@ -36,7 +36,10 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
- [<img  width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant88093&layout=compact&count_private=true" />](https://github.com/shashikant88093/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant88093&theme=radical&layout=compact" />
+</div>
 
 📈 my github stats
 
