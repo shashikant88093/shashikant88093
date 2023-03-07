@@ -38,11 +38,12 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant88093&layout=compact&theme=nightowl" />
+
 📈 my github stats
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=radical&count_private=true,prs" />
 
-**cretifications**  
+**cretificate**  
 
 <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/css.png" width="400" height="320" />
 
