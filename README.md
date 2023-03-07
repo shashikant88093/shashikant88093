@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://leetcode.com/shashi94goswami/">
-  <img align="left" alt="Shashikant Kumar | Leetcode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+  <img align="left" alt="Shashikant Kumar | Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 
 
