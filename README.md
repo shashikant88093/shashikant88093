@@ -7,6 +7,10 @@
   <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://leetcode.com/shashi94goswami/">
+  <img align="left" alt="Shashikant Kumar | Leetcode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shashikant88093.shashikant88093)
 
