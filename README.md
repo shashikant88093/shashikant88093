@@ -42,6 +42,10 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=radical&count_private=true,prs" />
 
+**cretifications**  
+<img align="right" alt="GIF" src="https://www.hackerrank.com/certificates/iframe/60c8560e4cd4" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://www.hackerrank.com/certificates/af2e3e415dbb" width="500" height="320" />
 
 
 
