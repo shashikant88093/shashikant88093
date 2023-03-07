@@ -45,7 +45,7 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 **cretifications**  
   <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/csscertificate.pdf" width="500" height="320" />
 
-    <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/javascript_basic_certificate.pdf" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/javascript_basic_certificate.pdf" width="500" height="320" />
 
 
   
