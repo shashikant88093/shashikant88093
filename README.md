@@ -43,9 +43,9 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=shashikant88093&show_icons=true&theme=radical&count_private=true,prs" />
 
 **cretifications**  
-  <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/csscertificate.pdf" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/css.png" width="500" height="320" />
 
-<img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/javascript_basic_certificate.pdf" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/js_basic.png" width="500" height="320" />
 
 
   
