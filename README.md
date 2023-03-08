@@ -54,7 +54,7 @@ Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passion
 <img align="left" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/js_basic.png" width="400" height="320" />
 
 
-<img align="right" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/js_intermideiate.png" width="400" height="320" />
+<img align="left" alt="GIF" src="https://github.com/shashikant88093/shashikant88093/blob/main/js_intermideiate.png" width="400" height="320" />
   
 
 
