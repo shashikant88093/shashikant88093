@@ -1,10 +1,10 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Shashik88093">
-  <img align="left" alt="Shashikant Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shashikant Kumar | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficons%2Ftwitter&psig=AOvVaw3wN7ZLnouKsljXifS2eJJ9&ust=1728577252733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj14pvagYkDFQAAAAAdAAAAABAE)" />
 </a>
 <a href="https://www.linkedin.com/in/shashikant-kumar-655433155/">
-  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waalaxy.com%2Fen%2Flinkedin-logo-history-and-free-download%2F&psig=AOvVaw2p2SI8fjFTK4QHljjI3KSZ&ust=1728577317286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDwxL3agYkDFQAAAAAdAAAAABAE)" />
 </a>
 
 <a href="https://leetcode.com/shashi94goswami/">
