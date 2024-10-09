@@ -4,7 +4,7 @@
   <img align="left" alt="Shashikant Kumar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" />
 </a>
 <a href="https://www.linkedin.com/in/shashikant-kumar-655433155/">
-  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png " />
+  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 
 <a href="https://leetcode.com/shashi94goswami/">
