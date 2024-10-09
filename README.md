@@ -1,10 +1,10 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Shashik88093">
-  <img align="left" alt="Shashikant Kumar | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficons%2Ftwitter&psig=AOvVaw3wN7ZLnouKsljXifS2eJJ9&ust=1728577252733000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj14pvagYkDFQAAAAAdAAAAABAE)" />
+  <img align="left" alt="Shashikant Kumar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" />
 </a>
 <a href="https://www.linkedin.com/in/shashikant-kumar-655433155/">
-  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.waalaxy.com%2Fen%2Flinkedin-logo-history-and-free-download%2F&psig=AOvVaw2p2SI8fjFTK4QHljjI3KSZ&ust=1728577317286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDwxL3agYkDFQAAAAAdAAAAABAE)" />
+  <img align="left" alt="Shashikant Kumar | LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png " />
 </a>
 
 <a href="https://leetcode.com/shashi94goswami/">
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passionate self-taught full stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
+Hi, I'm [Shashikant Kumar](https://shashikant88093.github.io/resume/), a passionate self-taught Full Stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
 
 
 
